@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="C:\Users\User\OneDrive\Desktop\mitadeon\PICT\pict.png" alt="Welcome banner" width="100%">
+  <img <img src="./pict.png" alt="Welcome banner" width="100%">
 </p>
 
 <h1 align="center">🌿 Hi there, I'm MITADEON 🌿</h1>
